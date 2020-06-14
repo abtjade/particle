@@ -1,17 +1,17 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
-# baseurl: "/particle" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+title: 영원의 끝
+description: 창의적 발상과 표현 - 아이작 아시모프 세계관의 시작, 영원의 끝
+baseurl: "/particle" # the subpath of your site, e.g. /blog
+url: "https://abtjade.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Anon Developer
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
-user_title: Software Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
+username: "영원의 끝"
+user_description: "여기에 글"
+user_title: "아이작 아시모프"
+email: abt.jade@gmail.com
+twitter_username: 
+github_username: abtjade
+gplus_username: 
 
 # Google-analytics
 google-analytics:
